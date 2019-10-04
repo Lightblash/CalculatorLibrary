@@ -13,3 +13,7 @@ def subtract(first_term, second_term):
 
 def multiply(first_item, second_item):
     return first_item * second_item
+
+
+def divide(first_item, second_item):
+    return first_item / second_item
